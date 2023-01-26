@@ -59,7 +59,7 @@ System-assigned managed identity has the following properties:
 
 * They have 1:1 relationship with the Azure resource. For example, there's a unique managed identity associated with each VM.
 
-* They are tied to the lifecycle of Azure resources. When the resource is deleted, the managed identity associated with it's automatically deleted, eliminating the risk associated with orphaned accounts. 
+* They are tied to the lifecycle of Azure resources. When the resource is deleted, the managed identity associated with it is automatically deleted, eliminating the risk associated with orphaned accounts. 
 
 User-assigned managed identities have the following properties:
 
